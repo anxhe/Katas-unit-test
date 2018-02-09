@@ -1,0 +1,18 @@
+{
+  "name": "hassumequalto-cata-unit-testing",
+  "version": "1.0.0",
+  "description": "cata-unit-testing",
+  "main": "hasSumEqualTo.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angelina Moreno Robledo",
+  "license": "ISC",
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^5.0.0"
+  }
+}
